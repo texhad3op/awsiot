@@ -1,0 +1,1 @@
+aws iot list-attached-policies --target us-east-1:acbec1c2-354b-4f21-a39f-088eef05123d --page-size 60
